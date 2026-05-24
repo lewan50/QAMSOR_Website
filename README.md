@@ -23,4 +23,4 @@ College of Information Technology, University of Negros Occidental–Recoletos (
 
 🚀 Live Demo
 The project is hosted live on GitHub Pages. You can view it here: 
-`https://<your-github-username>.github.io/<your-repository-name>/`
+https://lewan50.github.io/QAMSOR_Website/
